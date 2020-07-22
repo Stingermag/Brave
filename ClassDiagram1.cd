@@ -1,0 +1,102 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="cubemove">
+    <Position X="0.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACACAAAAAAAAAAAAAABIQAABAAAAAgAAgAA=</HashCode>
+      <FileName>Assets\Scripts\cubemove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="delete">
+    <Position X="2.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAABgAAAAAAI=</HashCode>
+      <FileName>Assets\Scripts\delete.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="enshotmove">
+    <Position X="4" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAABAAQAACAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\enshotmove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="getDmg">
+    <Position X="0.5" Y="5.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>CAQEAAAAACAAAAAAAAAAAAAAAQAAAAAACABgQIAAAAA=</HashCode>
+      <FileName>Assets\Scripts\getDmg.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="getDmg2">
+    <Position X="2.25" Y="4.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAgAAAAAAAAAAAAAAAgAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\getDmg2.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="getDmg3">
+    <Position X="2.25" Y="7" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAgAAAAAAAAAAAAAAAgAAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\getDmg3.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="moving">
+    <Position X="9.25" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>EAQAAAAEQiBABQIAAABgAAEBAAJAQQAISABABIEALAA=</HashCode>
+      <FileName>Assets\Scripts\moving.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shop">
+    <Position X="4" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>QAQAgAAAACAAAAAAAAAAAAAABAgAAwAAAAAABPACAAA=</HashCode>
+      <FileName>Assets\Scripts\shop.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="shotmove">
+    <Position X="7.5" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAAAABAAQAACAAgAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\shotmove.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="skills">
+    <Position X="5.75" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAIAAAAAAAAAAAAgAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\skills.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="srart">
+    <Position X="7.5" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAABAAACAAAAAABAAEAAAAAAAEAACAAAAAAAAAAAg=</HashCode>
+      <FileName>Assets\Scripts\srart.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="UIMen">
+    <Position X="5.75" Y="5.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAAAAAAAAAAAABAAEAAAAIAAAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\UIMen.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="upgold">
+    <Position X="2.25" Y="2.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAgAAAAEAA=</HashCode>
+      <FileName>Assets\Scripts\upgold.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="upmoney">
+    <Position X="5.75" Y="3.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAQAAAAAACAAAACAAAAAAAAAAAAAAAAAAAgAAAAAAAA=</HashCode>
+      <FileName>Assets\Scripts\upmoney.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>
